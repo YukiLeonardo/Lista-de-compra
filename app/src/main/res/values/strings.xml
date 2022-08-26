@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaDeCompra</string>
+    <string name="hint_informe_o_nome_do_produto">Informe o Nome do Produto</string>
+    <string name="hint_informe_a_marca_do_produto">Informe a Marca do Produto</string>
+    <string name="hint_informe_a_quantidade_do_produto">Informe a Quantidade do Produto</string>
+    <string name="salvar">SALVAR</string>
+</resources>
